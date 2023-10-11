@@ -4,7 +4,7 @@
       "postdeploy": "python main.py"
     },
     "env": {
-      "BUILD_WITH": "python"
+      "BUILD_WITH": "heroku/python"
     }
   }
   

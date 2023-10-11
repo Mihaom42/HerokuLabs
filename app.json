@@ -1,0 +1,10 @@
+{
+    "name": "powerful-shore-82069",
+    "scripts": {
+      "postdeploy": "python main.py"
+    },
+    "env": {
+      "BUILD_WITH": "python"
+    }
+  }
+  
